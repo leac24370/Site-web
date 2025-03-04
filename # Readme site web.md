@@ -8,50 +8,57 @@
    - comprendre et savoir utiliser le css
 
 ### étapes de la conception :
+
 #### • choix de la template :
 Pour ça je suis d'abord allée sur le site **htlm5up** :  
-![site html5up](image-1.png)
+![HTML5UP](https://github.com/user-attachments/assets/83820875-b38d-4a0a-a510-e33b5315c696)  
 J'ai ensuite choisi une template qui m'a plu :   
-![template](image-5.png)
+![HTML5UP template](https://github.com/user-attachments/assets/319847e3-5e97-4c98-bb72-db71dbc9f040)  
 Celle-ci se présentait sur **une seule page** à faire défiler, et permettait d'**insérer de nombreuses images** pour illustrer correctement le sujet que j'avais préalablement décidé de traiter dans mon site. Je l'ai donc **téléchargée**.  
 
 #### • modification de la template
 Après avoir **dézippé le fichier**, je l'ai ouvert dans l'éditeur **Sublime Text**.  
 Il a d'abord fallu modifier la **structure** même du site, qui se trouve dans le fichier *index* :  
-![texte non modifié](image-7.png)
+![Texte template](https://github.com/user-attachments/assets/93f31650-f92b-44fd-933d-8e7ec6db5134)  
 J'ai ainsi commencé par **modifier le texte** :  
-![texte modifié 1](image-8.png)
-![texte modifié 2](image-15.png)
+![Texte modifié](https://github.com/user-attachments/assets/db794435-0b82-4a42-a2d6-733af89cfa2b)  
+![Texte modifié 2](https://github.com/user-attachments/assets/74f51003-92b1-4c74-870c-ce27b05deceb)  
+
  
 Après avoir remplacé le texte par les informations que je souhaitais, j'ai également changé les **images** pour qu'elles illustres mon propos, passant de ça :  
-![image non modifiées](image-9.png)  
+![code image template](https://github.com/user-attachments/assets/ec994d31-37c0-40c4-8f14-b9f98bbbba71)  
 à ça :  
-![images modifiées](image-10.png)
+![Code image modifié](https://github.com/user-attachments/assets/70f40c35-f528-47b3-9852-8fbd9228ff89)  
+
 
 Je me suis ensuite penchée sur le **css** - présent dans le dossier *main.css* - pour modifier le style, principalement les couleurs. Afin de les retrouver plus facilement, j'ai fait une recherche avec cntr+f et tapé le code de la couleur que je voulais changé (ou tout simplement "color"), ce qui l'a mit en surbrillance :  
-![recherche couleur dans langage html](image-11.png)  
+![surbrillance couleurs](https://github.com/user-attachments/assets/ede749bd-3492-487e-a244-c21d083b6602)  
 Pour trouver le code de la couleur par laquelle je voulais remplacer celle de la template, je suis allée sur google :  
-![code couleur](image-14.png)
+![code couleur](https://github.com/user-attachments/assets/4494b65c-2715-4bd0-b0b5-084e5b453770)  
+
 
 ### rendu final:  
 Après ces étapes, on obtient ces modifications :  
-![site non modifié](image-22.png)
+![non modifié 1](https://github.com/user-attachments/assets/2613ea88-c6c3-45bc-8fb0-0d5f74e28e59)  
 ⬇
-![site modifié](image-16.png)   
+![modifié 1](https://github.com/user-attachments/assets/fd3ff647-2ccd-4ec6-868a-6712a06ddb9b)  
 
-![site non modifié](image-23.png)
+![non modifié 2](https://github.com/user-attachments/assets/2a9f38d7-5582-48ea-bfa6-39a384551f1e)  
 ⬇
-![site modifié](image-17.png) 
-![site modifié](image-18.png) 
+![modifié 2](https://github.com/user-attachments/assets/67abe987-dd5c-4204-844f-b81fa865304e)  
+![modifié 2.1](https://github.com/user-attachments/assets/c510ee54-c522-46ec-a149-89a4e42bff2d)  
 
-![site non modifié](image-24.png)
+![non modifié 3](https://github.com/user-attachments/assets/4a6be343-ad2a-4ecd-9eca-b63b46005b06)  
 ⬇
-![site modifié](image-19.png)  
-![site modifié](image-20.png) 
+![modifié 3](https://github.com/user-attachments/assets/eeea9c8d-8220-43dd-8ac9-e2850e1c4d23)  
+![modifié 3.2](https://github.com/user-attachments/assets/904cca4d-6b87-48c8-8b65-2e81e4d1f6ca)  
+![modifié 3.3](https://github.com/user-attachments/assets/1040eed6-1bf7-4024-b85d-315fac14d185)  
+![modifié 3.4](https://github.com/user-attachments/assets/b432b275-86d9-478c-a34d-b62fe564f417)
 
-![site non modifié](image-25.png)
+![non modifié 4](https://github.com/user-attachments/assets/62aabc86-73ff-4582-abb5-17c0480d3173)
 ⬇
-![site modifié](image-21.png) 
+![modifié 4](https://github.com/user-attachments/assets/bfa0b7e4-5229-45fc-b45b-8a993d6ab474)
+
  
 
 ### sources :
