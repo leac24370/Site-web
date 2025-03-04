@@ -1,6 +1,9 @@
 # Readme site web
 ### outils informatiques utilisés : 
-    Sublime text, html5up
+   - Sublime text (édition du site)
+   - html5up (template)
+   - github (fichier read me et tutoriels)
+   - youtube (tutoriels)
 
 ### objectifs de ce projet :
    - modifier la template d'un site web  
