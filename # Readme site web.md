@@ -1,11 +1,21 @@
 # Readme site web
-### **outils** informatiques utilisés : 
+### outils informatiques utilisés : 
     Sublime text, html5up
 
-### **objectifs** de ce projet :
+### objectifs de ce projet :
    - modifier la template d'un site web  
    - comprendre et savoir utiliser le langage html  
    - comprendre et savoir utiliser le css
+   - illustrer notre sujet de mémoire
+
+### difficultés rencontrées :
+   - trouver un thème pertinent en rapport avec le sujet de mémoire qui puisse être illustré par un sité web
+   - comprendre comment visualiser le résultat
+   - intégrer des images
+   - trouver le code couleur correspondant à celles que je voulais changer
+
+### choix du sujet :
+J'ai choisi d'illustrer dans le site web la représentation de la femme dans l'Antiquité car ce sujet permet de mettre en avant les différents rôles sociaux qu'occupe la femme à cette période, et dont elle essai notamment de s'échapper. L'oikos, lieu assimilé à la femme qui en est à la fois la maitresse et la prisonnière, est au coeur de mes recherches. La codification de leurs comportements est également un sujet abordé dans mes recherches puisque c'est le dépassement de ces comportements qui constitue une première forme d'évasion. Ensuite, la question du statut abordée à travers les hétaïres est centrale dans les oeuvres de Ménandre et permet de mettre en avant des femmes qui transcendent les stéréotypes sociaux de l'époque. Enfin, la figure des Amazones permet de représenter l'angoisse de castration qui règne dans l'esprit masculin et qui forge, par la peur qu'elle induit, un imaginaire stéréotypé autour de la femme qui la perçoit commme un danger à contrôler. 
 
 ### étapes de la conception :
 
@@ -35,7 +45,7 @@ Je me suis ensuite penchée sur le **css** - présent dans le dossier *main.css*
 ![surbrillance couleurs](https://github.com/user-attachments/assets/ede749bd-3492-487e-a244-c21d083b6602)  
 Pour trouver le code de la couleur par laquelle je voulais remplacer celle de la template, je suis allée sur google :  
 ![code couleur](https://github.com/user-attachments/assets/4494b65c-2715-4bd0-b0b5-084e5b453770)  
-
+J'ai choisi de garder le texte en noir et de prendre un fond plus clair pour qu'il soit visible de manière à accorder les couleurs du sites aux images proposées : le marron / beige (<cba075) rappelle la couleur présente sur les figures rouges, tout comme le noir s'accorde au fond de ces mêmes pièces. De plus, ce marron clair évoque également la couleur de la collection grecque des belles lettres, éditions de référence pour mes recherches. les fines lignes bleues claires sont également d'origine et j'ai choisi de le garder pour donner une allure plus moderne au site web, ce qui rappelle que l'angle de vue adopté est actuel, puisque je me positionne dans une perspective moderne et critique de l'imaginaire masculin qui entoure les femmes de l'antiquité, en prennant en compte - sans le nommer - ce qu'on peut apppeler le patriarcat. Esthétiquement parlant je trouvais cette couleur jolie, elle s'accorde avec le reste, elle créée une rupture sans pour autant être choquant. Je n'ai donc pas vu la nécéssité de la changer. 
 
 ### rendu final:  
 Après ces étapes, on obtient ces modifications :  
